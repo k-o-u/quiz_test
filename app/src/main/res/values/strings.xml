@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz_test</string>
+    <string name="question">Q1: 1+1は？</string>
+    <string-array name="answer_list">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
